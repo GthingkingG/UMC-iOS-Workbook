@@ -54,3 +54,10 @@ cp Week6/Week6_Practice/Week6_Practice/Secrets.example.swift \
 ## 🛠 빌드
 
 각 Week 폴더의 `*.xcodeproj` 열고 ⌘R. iOS 시뮬레이터.
+
+## 🔗 관련 작품 (Sibling Repo)
+
+같은 UMC 8기 정규 워크북 커리큘럼의 누적 클론 코딩 과제는 별도 레포에서 단일 통합 앱으로 진행했습니다:
+
+- **[UMC_Starbucks](https://github.com/GthingkingG/UMC_Starbucks)** — 스타벅스 클론 코딩 (Week2~Week6 누적 발전)
+  - Week 단위 미니 실습은 본 레포(Workbook)에, 통합 앱은 별도 레포에 두어 grain 분리.
